@@ -1,4 +1,4 @@
-# adt
+# Data structures and algorithms - example work {{Java}}
 
 &copy; Jarred Morris 2015. All rights reserved. This code can be viewed for inspiration, but should not be used for any purpose by any third party without prior written permission.  
 
